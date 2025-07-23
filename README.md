@@ -1,4 +1,4 @@
 # Blog-Data
 
 ## Direct JSON Link
-[blog-entries.json](https://graysen-w1.github.io/blog-entries/blog-entries.json)
+[blog-data.json](https://graysen-w1.github.io/blog-data/blog-entries.json)
