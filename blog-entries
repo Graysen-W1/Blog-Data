@@ -1,0 +1,31 @@
+{
+  "devBlogEntries": [
+    {
+      "id": 1,
+      "name": "CSS Grid Layout",
+      "author": "Graysen",
+      "date": "2025-03-15",
+      "topic": "CSS",
+      "tags": ["css", "grid", "layout", "responsive", "design"],
+      "text": "CSS Grid provides a powerful two-dimensional layout system that makes complex designs simple. Unlike Flexbox, Grid controls both rows and columns simultaneously. Set up with display: grid, then define your structure with grid-template-columns and grid-template-rows."
+    },
+    {
+      "id": 2,
+      "name": "Modern JavaScript ES6 Features",
+      "author": "Graysen", 
+      "date": "2025-04-22",
+      "topic": "JavaScript",
+      "tags": ["javascript", "es6", "arrow-functions", "destructuring", "modules"],
+      "text": "ES6 transformed JavaScript with game-changing features. Arrow functions provide cleaner syntax, destructuring extracts values elegantly, and template literals revolutionized strings. The module system finally gave JavaScript proper import/export capabilities for better code organization."
+    },
+    {
+      "id": 3,
+      "name": "Responsive Web Design Principles",
+      "author": "Graysen",
+      "date": "2025-02-08", 
+      "topic": "Web Design",
+      "tags": ["responsive", "mobile-first", "breakpoints", "flexbox", "media-queries"],
+      "text": "Responsive design requires a mobile-first approach with flexible systems. Start small and enhance for larger screens using media queries. Use flexible grids, responsive images with max-width: 100%, and ensure touch targets are at least 44px for mobile usability."
+    }
+  ]
+}
