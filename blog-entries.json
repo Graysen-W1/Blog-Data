@@ -20,12 +20,12 @@
     },
     {
       "id": 3,
-      "title": "CSS is Actually Fun",
+      "title": "Attempting GitHub",
       "author": "Graysen",
       "date": "2025-05-02", 
-      "topic": "CSS",
-      "tags": ["css", "styling", "flexbox", "fun", "design"],
-      "text": "Who knew styling could be so addictive? Spent hours playing with flexbox today and finally got my layout working perfectly. CSS went from frustrating to fascinating real quick!"
+      "topic": "GitHub",
+      "tags": ["git", "profile", "projects",
+      "text": "Hey all! I've been getting more involved with GitHub. I haven't used it much, so this has been a great opportunity to learn about it! Let me know if you have any tips."
     }
   ]
 }
